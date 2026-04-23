@@ -1,2 +1,4 @@
 saves/*
 crash-reports/*
+.fabric/*
+logs/
