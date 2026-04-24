@@ -4,3 +4,4 @@ crash-reports/*
 logs/*
 mods/reactivemusic-1.2.2+1.20.1.jar
 config/ReactiveMusic.json5
+/logs
