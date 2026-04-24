@@ -1,4 +1,3 @@
-
 [graphics]
 	#Should lodestone use experimental fabulous graphics layering? You pretty much never wanna turn this on at the moment unless you're a developer.
 	experimental_fabulous_layering = false
@@ -22,4 +21,3 @@
 [screen_particles]
 	#Are screen particles enabled?
 	enable_screen_particles = true
-

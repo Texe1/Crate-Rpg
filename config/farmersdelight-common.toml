@@ -1,4 +1,3 @@
-
 #Game settings
 [settings]
 	#Farmer's Delight adds crates (3x3) for vanilla crops, similar to Quark and Thermal Cultivation. Should they be craftable?
@@ -114,4 +113,3 @@
 		#Chance of generating clusters. Smaller value = more frequent.
 		#Range: > 0
 		chance = 20
-

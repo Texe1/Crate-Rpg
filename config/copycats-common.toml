@@ -72,4 +72,3 @@ disableMigration = false
 	#.
 	#All copycats that support multiple materials in a single block
 	multistates = true
-

@@ -1,6 +1,3 @@
-
-[stressValues]
-
 	#.
 	#Fine tune the kinetic stats of individual components
 	[stressValues.v1]
@@ -13,4 +10,3 @@
 			copycat_cogwheel = 0.0
 			copycat_large_cogwheel = 0.0
 			copycat_shaft = 0.0
-

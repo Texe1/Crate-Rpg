@@ -117,7 +117,7 @@ _version = 4
 	[common.multiThreading]
 		#
 		# How many threads should be used by Distant Horizons?
-		numberOfThreads = 12
+		numberOfThreads = 18
 		#
 		# A value between 1.0 and 0.0 that represents the percentage 
 		# of time each thread can run before going idle. 
@@ -468,7 +468,7 @@ _version = 4
 				#  overhangs or walls for floating objects. 
 				#  Tweaking the caveCullingHeight, can resolve some 
 				#  of those issues.
-				enableCaveCulling = true
+				enableCaveCulling = false
 				#
 				# Identical to the other frustum culling option
 				# only used when a shader mod is present using the DH API
@@ -649,7 +649,7 @@ _version = 4
 				# 
 				# Lowest Quality: HEIGHT_MAP
 				# Highest Quality: EXTREME
-				verticalQuality = "MEDIUM"
+				verticalQuality = "HIGH"
 				#
 				# What blocks shouldn't be rendered as LODs? 
 				# 
@@ -658,7 +658,7 @@ _version = 4
 				blocksToIgnore = "NON_COLLIDING"
 				#
 				# The radius of the mod's render distance. (measured in chunks)
-				lodChunkRenderDistanceRadius = 80
+				lodChunkRenderDistanceRadius = 64
 				#
 				# How should the sides and bottom of grass block LODs render? 
 				# 
@@ -676,7 +676,7 @@ _version = 4
 				# This indicates how quickly LODs decrease in quality the further away they are. 
 				# Higher settings will render higher quality fake chunks farther away, 
 				# but will increase memory and GPU usage.
-				horizontalQuality = "MEDIUM"
+				horizontalQuality = "HIGH"
 				#
 				# How should LOD transparency be handled. 
 				# 
@@ -749,7 +749,7 @@ _version = 4
 				# 0.0: Fog ends at player's position.
 				# 1.0: Fog ends at the closest edge of the vanilla render distance. 
 				# 1.414: Fog ends at the corner of the vanilla render distance.
-				farFogEnd = "0.7"
+				farFogEnd = "1.0"
 
 				[client.advanced.graphics.fog.heightFog]
 					#

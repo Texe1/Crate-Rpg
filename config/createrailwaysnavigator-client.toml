@@ -1,4 +1,3 @@
-
 ["Create Railways Navigator Config"]
 	#Display Time Format. (Default: Hours 24)
 	#Allowed Values: HOURS_24, HOURS_12, TICKS
@@ -25,4 +24,3 @@
 		position = "TOP_LEFT"
 		#If active, you will receive short toasts about important events on your trip, e.g. delays, changes, ... (Default: ON)
 		notifications = true
-

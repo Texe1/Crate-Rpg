@@ -1,6 +1,3 @@
-
-[createrailwaysnavigator_common_config]
-
 	[createrailwaysnavigator_common_config.train_data_calculation]
 		#[in Cycles]
 		#How often the calculated time for a route section between two stations must deviate from the current reference value before the reference value is updated. (Default: 3)
@@ -65,4 +62,3 @@
 	[createrailwaysnavigator_common_config.advanced_display]
 		#Automatically changes the display type when a display link is connected, depending on what should be displayed. (Default: ON)
 		auto_change_display_type = true
-
