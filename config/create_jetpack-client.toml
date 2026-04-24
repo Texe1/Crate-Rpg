@@ -1,8 +1,8 @@
 
 [overlay]
-	enabled = true
 	#Range: 0.0 ~ 1.7976931348623157E308
 	scale = 1.0
+	enabled = true
 
 	[overlay.position]
 		#Use negative values to position relative to the right/bottom of the screen

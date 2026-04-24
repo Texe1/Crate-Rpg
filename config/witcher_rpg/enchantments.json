@@ -8,5 +8,5 @@
     "step_cost": 9,
     "bonus_per_level": 0.03
   },
-  "schema_version": 0
+  "schema_version": 4
 }

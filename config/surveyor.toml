@@ -98,6 +98,6 @@ forceUpdateLandmarks = true
 
 	[builtins.recordIcons]
 		PLAYER = false
-		PLAYER_OFF_MAP = false
 		PLAYER_OFF_LIMITS = false
+		PLAYER_OFF_MAP = false
 		FRAME = false
