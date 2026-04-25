@@ -1,0 +1,1604 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "acacia",
+			"upside_down": "true",
+			"orientation": "north",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "bamboo",
+			"upside_down": "true",
+			"orientation": "north",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "birch",
+			"upside_down": "true",
+			"orientation": "north",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "cherry",
+			"upside_down": "true",
+			"orientation": "north",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "dark_oak",
+			"upside_down": "true",
+			"orientation": "north",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "jungle",
+			"upside_down": "true",
+			"orientation": "north",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "mangrove",
+			"upside_down": "true",
+			"orientation": "north",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "oak",
+			"upside_down": "true",
+			"orientation": "north",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "pale_oak",
+			"upside_down": "true",
+			"orientation": "north",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "spruce",
+			"upside_down": "true",
+			"orientation": "north",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "acacia",
+			"upside_down": "false",
+			"orientation": "north",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "bamboo",
+			"upside_down": "false",
+			"orientation": "north",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "birch",
+			"upside_down": "false",
+			"orientation": "north",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "cherry",
+			"upside_down": "false",
+			"orientation": "north",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "dark_oak",
+			"upside_down": "false",
+			"orientation": "north",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "jungle",
+			"upside_down": "false",
+			"orientation": "north",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "mangrove",
+			"upside_down": "false",
+			"orientation": "north",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "oak",
+			"upside_down": "false",
+			"orientation": "north",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "pale_oak",
+			"upside_down": "false",
+			"orientation": "north",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "spruce",
+			"upside_down": "false",
+			"orientation": "north",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "acacia",
+			"upside_down": "true",
+			"orientation": "south",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "bamboo",
+			"upside_down": "true",
+			"orientation": "south",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "birch",
+			"upside_down": "true",
+			"orientation": "south",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "cherry",
+			"upside_down": "true",
+			"orientation": "south",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "dark_oak",
+			"upside_down": "true",
+			"orientation": "south",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "jungle",
+			"upside_down": "true",
+			"orientation": "south",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "mangrove",
+			"upside_down": "true",
+			"orientation": "south",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "oak",
+			"upside_down": "true",
+			"orientation": "south",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "pale_oak",
+			"upside_down": "true",
+			"orientation": "south",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "spruce",
+			"upside_down": "true",
+			"orientation": "south",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "acacia",
+			"upside_down": "false",
+			"orientation": "south",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "bamboo",
+			"upside_down": "false",
+			"orientation": "south",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "birch",
+			"upside_down": "false",
+			"orientation": "south",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "cherry",
+			"upside_down": "false",
+			"orientation": "south",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "dark_oak",
+			"upside_down": "false",
+			"orientation": "south",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "jungle",
+			"upside_down": "false",
+			"orientation": "south",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "mangrove",
+			"upside_down": "false",
+			"orientation": "south",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "oak",
+			"upside_down": "false",
+			"orientation": "south",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "pale_oak",
+			"upside_down": "false",
+			"orientation": "south",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "spruce",
+			"upside_down": "false",
+			"orientation": "south",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "acacia",
+			"upside_down": "true",
+			"orientation": "west",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "bamboo",
+			"upside_down": "true",
+			"orientation": "west",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "birch",
+			"upside_down": "true",
+			"orientation": "west",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "cherry",
+			"upside_down": "true",
+			"orientation": "west",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "dark_oak",
+			"upside_down": "true",
+			"orientation": "west",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "jungle",
+			"upside_down": "true",
+			"orientation": "west",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "mangrove",
+			"upside_down": "true",
+			"orientation": "west",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "oak",
+			"upside_down": "true",
+			"orientation": "west",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "pale_oak",
+			"upside_down": "true",
+			"orientation": "west",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "spruce",
+			"upside_down": "true",
+			"orientation": "west",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "acacia",
+			"upside_down": "false",
+			"orientation": "west",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "bamboo",
+			"upside_down": "false",
+			"orientation": "west",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "birch",
+			"upside_down": "false",
+			"orientation": "west",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "cherry",
+			"upside_down": "false",
+			"orientation": "west",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "dark_oak",
+			"upside_down": "false",
+			"orientation": "west",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "jungle",
+			"upside_down": "false",
+			"orientation": "west",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "mangrove",
+			"upside_down": "false",
+			"orientation": "west",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "oak",
+			"upside_down": "false",
+			"orientation": "west",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "pale_oak",
+			"upside_down": "false",
+			"orientation": "west",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "spruce",
+			"upside_down": "false",
+			"orientation": "west",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "acacia",
+			"upside_down": "true",
+			"orientation": "east",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "bamboo",
+			"upside_down": "true",
+			"orientation": "east",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "birch",
+			"upside_down": "true",
+			"orientation": "east",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "cherry",
+			"upside_down": "true",
+			"orientation": "east",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "dark_oak",
+			"upside_down": "true",
+			"orientation": "east",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "jungle",
+			"upside_down": "true",
+			"orientation": "east",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "mangrove",
+			"upside_down": "true",
+			"orientation": "east",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "oak",
+			"upside_down": "true",
+			"orientation": "east",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "pale_oak",
+			"upside_down": "true",
+			"orientation": "east",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "spruce",
+			"upside_down": "true",
+			"orientation": "east",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "acacia",
+			"upside_down": "false",
+			"orientation": "east",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "bamboo",
+			"upside_down": "false",
+			"orientation": "east",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "birch",
+			"upside_down": "false",
+			"orientation": "east",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "cherry",
+			"upside_down": "false",
+			"orientation": "east",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "dark_oak",
+			"upside_down": "false",
+			"orientation": "east",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "jungle",
+			"upside_down": "false",
+			"orientation": "east",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "mangrove",
+			"upside_down": "false",
+			"orientation": "east",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "oak",
+			"upside_down": "false",
+			"orientation": "east",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "pale_oak",
+			"upside_down": "false",
+			"orientation": "east",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "spruce",
+			"upside_down": "false",
+			"orientation": "east",
+			"occupied": "true"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "acacia",
+			"upside_down": "true",
+			"orientation": "north",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "bamboo",
+			"upside_down": "true",
+			"orientation": "north",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "birch",
+			"upside_down": "true",
+			"orientation": "north",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "cherry",
+			"upside_down": "true",
+			"orientation": "north",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "dark_oak",
+			"upside_down": "true",
+			"orientation": "north",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "jungle",
+			"upside_down": "true",
+			"orientation": "north",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "mangrove",
+			"upside_down": "true",
+			"orientation": "north",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "oak",
+			"upside_down": "true",
+			"orientation": "north",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "pale_oak",
+			"upside_down": "true",
+			"orientation": "north",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "spruce",
+			"upside_down": "true",
+			"orientation": "north",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "acacia",
+			"upside_down": "false",
+			"orientation": "north",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "bamboo",
+			"upside_down": "false",
+			"orientation": "north",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "birch",
+			"upside_down": "false",
+			"orientation": "north",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "cherry",
+			"upside_down": "false",
+			"orientation": "north",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "dark_oak",
+			"upside_down": "false",
+			"orientation": "north",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "jungle",
+			"upside_down": "false",
+			"orientation": "north",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "mangrove",
+			"upside_down": "false",
+			"orientation": "north",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "pale_oak",
+			"upside_down": "false",
+			"orientation": "north",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "spruce",
+			"upside_down": "false",
+			"orientation": "north",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "acacia",
+			"upside_down": "true",
+			"orientation": "south",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "bamboo",
+			"upside_down": "true",
+			"orientation": "south",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "birch",
+			"upside_down": "true",
+			"orientation": "south",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "cherry",
+			"upside_down": "true",
+			"orientation": "south",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "dark_oak",
+			"upside_down": "true",
+			"orientation": "south",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "jungle",
+			"upside_down": "true",
+			"orientation": "south",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "mangrove",
+			"upside_down": "true",
+			"orientation": "south",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "oak",
+			"upside_down": "true",
+			"orientation": "south",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "pale_oak",
+			"upside_down": "true",
+			"orientation": "south",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "spruce",
+			"upside_down": "true",
+			"orientation": "south",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "acacia",
+			"upside_down": "false",
+			"orientation": "south",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "bamboo",
+			"upside_down": "false",
+			"orientation": "south",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "birch",
+			"upside_down": "false",
+			"orientation": "south",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "cherry",
+			"upside_down": "false",
+			"orientation": "south",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "dark_oak",
+			"upside_down": "false",
+			"orientation": "south",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "jungle",
+			"upside_down": "false",
+			"orientation": "south",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "mangrove",
+			"upside_down": "false",
+			"orientation": "south",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "oak",
+			"upside_down": "false",
+			"orientation": "south",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "pale_oak",
+			"upside_down": "false",
+			"orientation": "south",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "spruce",
+			"upside_down": "false",
+			"orientation": "south",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "acacia",
+			"upside_down": "true",
+			"orientation": "west",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "bamboo",
+			"upside_down": "true",
+			"orientation": "west",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "birch",
+			"upside_down": "true",
+			"orientation": "west",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "cherry",
+			"upside_down": "true",
+			"orientation": "west",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "dark_oak",
+			"upside_down": "true",
+			"orientation": "west",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "jungle",
+			"upside_down": "true",
+			"orientation": "west",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "mangrove",
+			"upside_down": "true",
+			"orientation": "west",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "oak",
+			"upside_down": "true",
+			"orientation": "west",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "pale_oak",
+			"upside_down": "true",
+			"orientation": "west",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "spruce",
+			"upside_down": "true",
+			"orientation": "west",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "acacia",
+			"upside_down": "false",
+			"orientation": "west",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "bamboo",
+			"upside_down": "false",
+			"orientation": "west",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "birch",
+			"upside_down": "false",
+			"orientation": "west",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "cherry",
+			"upside_down": "false",
+			"orientation": "west",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "dark_oak",
+			"upside_down": "false",
+			"orientation": "west",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "jungle",
+			"upside_down": "false",
+			"orientation": "west",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "mangrove",
+			"upside_down": "false",
+			"orientation": "west",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "oak",
+			"upside_down": "false",
+			"orientation": "west",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "pale_oak",
+			"upside_down": "false",
+			"orientation": "west",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "spruce",
+			"upside_down": "false",
+			"orientation": "west",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "acacia",
+			"upside_down": "true",
+			"orientation": "east",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "bamboo",
+			"upside_down": "true",
+			"orientation": "east",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "birch",
+			"upside_down": "true",
+			"orientation": "east",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "cherry",
+			"upside_down": "true",
+			"orientation": "east",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "dark_oak",
+			"upside_down": "true",
+			"orientation": "east",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "jungle",
+			"upside_down": "true",
+			"orientation": "east",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "mangrove",
+			"upside_down": "true",
+			"orientation": "east",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "oak",
+			"upside_down": "true",
+			"orientation": "east",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "pale_oak",
+			"upside_down": "true",
+			"orientation": "east",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "spruce",
+			"upside_down": "true",
+			"orientation": "east",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "acacia",
+			"upside_down": "false",
+			"orientation": "east",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "bamboo",
+			"upside_down": "false",
+			"orientation": "east",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "birch",
+			"upside_down": "false",
+			"orientation": "east",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "cherry",
+			"upside_down": "false",
+			"orientation": "east",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "dark_oak",
+			"upside_down": "false",
+			"orientation": "east",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "jungle",
+			"upside_down": "false",
+			"orientation": "east",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "mangrove",
+			"upside_down": "false",
+			"orientation": "east",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "oak",
+			"upside_down": "false",
+			"orientation": "east",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "pale_oak",
+			"upside_down": "false",
+			"orientation": "east",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"wood_variant": "spruce",
+			"upside_down": "false",
+			"orientation": "east",
+			"occupied": "false"
+		},
+		"Name": "adorablehamsterpets:hamster_bed"
+	}
+]

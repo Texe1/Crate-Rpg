@@ -1,0 +1,198 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blight_type": "grounded_roots"
+		},
+		"Name": "malum:clinging_blight"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blight_type": "grounded_roots"
+		},
+		"Name": "malum:clinging_blight"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blight_type": "grounded_roots"
+		},
+		"Name": "malum:clinging_blight"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blight_type": "grounded_roots"
+		},
+		"Name": "malum:clinging_blight"
+	},
+	{
+		"Name": "malum:clinging_blight"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blight_type": "rooted_blight"
+		},
+		"Name": "malum:clinging_blight"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blight_type": "rooted_blight"
+		},
+		"Name": "malum:clinging_blight"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blight_type": "rooted_blight"
+		},
+		"Name": "malum:clinging_blight"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blight_type": "soulwood_spike"
+		},
+		"Name": "malum:clinging_blight"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blight_type": "soulwood_spike"
+		},
+		"Name": "malum:clinging_blight"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blight_type": "soulwood_spike"
+		},
+		"Name": "malum:clinging_blight"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blight_type": "soulwood_spike"
+		},
+		"Name": "malum:clinging_blight"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blight_type": "hanging_blight_connection"
+		},
+		"Name": "malum:clinging_blight"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blight_type": "hanging_blight_connection"
+		},
+		"Name": "malum:clinging_blight"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blight_type": "hanging_blight_connection"
+		},
+		"Name": "malum:clinging_blight"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blight_type": "hanging_blight_connection"
+		},
+		"Name": "malum:clinging_blight"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blight_type": "hanging_blight"
+		},
+		"Name": "malum:clinging_blight"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blight_type": "hanging_blight"
+		},
+		"Name": "malum:clinging_blight"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blight_type": "hanging_blight"
+		},
+		"Name": "malum:clinging_blight"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blight_type": "hanging_blight"
+		},
+		"Name": "malum:clinging_blight"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blight_type": "hanging_roots"
+		},
+		"Name": "malum:clinging_blight"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blight_type": "hanging_roots"
+		},
+		"Name": "malum:clinging_blight"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blight_type": "hanging_roots"
+		},
+		"Name": "malum:clinging_blight"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blight_type": "hanging_roots"
+		},
+		"Name": "malum:clinging_blight"
+	}
+]
