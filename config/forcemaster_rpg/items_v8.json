@@ -1,7 +1,7 @@
 {
   "weapons": {
     "diamond_knuckle": {
-      "attack_damage": 5.0,
+      "attack_damage": 4.0,
       "attack_speed": -2.2,
       "attributes": [
         {
@@ -17,7 +17,7 @@
       ]
     },
     "aeternium_knuckle": {
-      "attack_damage": 7.0,
+      "attack_damage": 6.0,
       "attack_speed": -2.2,
       "attributes": [
         {
@@ -33,7 +33,7 @@
       ]
     },
     "netherite_knuckle": {
-      "attack_damage": 5.5,
+      "attack_damage": 5.0,
       "attack_speed": -2.2,
       "attributes": [
         {
@@ -49,7 +49,7 @@
       ]
     },
     "stone_knuckle": {
-      "attack_damage": 3.0,
+      "attack_damage": 2.0,
       "attack_speed": -2.2,
       "attributes": [
         {
@@ -60,7 +60,7 @@
       ]
     },
     "ruby_knuckle": {
-      "attack_damage": 7.0,
+      "attack_damage": 4.0,
       "attack_speed": -2.2,
       "attributes": [
         {
@@ -92,7 +92,7 @@
       ]
     },
     "wooden_knuckle": {
-      "attack_damage": 2.0,
+      "attack_damage": 1.0,
       "attack_speed": -2.2,
       "attributes": [
         {
@@ -103,7 +103,7 @@
       ]
     },
     "iron_knuckle": {
-      "attack_damage": 4.0,
+      "attack_damage": 3.0,
       "attack_speed": -2.2,
       "attributes": [
         {

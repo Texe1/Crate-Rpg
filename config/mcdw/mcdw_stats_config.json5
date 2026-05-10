@@ -13,7 +13,7 @@
 		"SWORD_BROADSWORD": {
 			"isEnabled": true,
 			"material": "iron",
-			"damage": 5,
+			"damage": 4,
 			"attackSpeed": -3.0,
 			"repairIngredient": [
 				"minecraft:iron_ingot"
@@ -31,7 +31,7 @@
 		"SWORD_CLAYMORE": {
 			"isEnabled": true,
 			"material": "iron",
-			"damage": 7,
+			"damage": 6,
 			"attackSpeed": -3.200000047683716,
 			"repairIngredient": [
 				"minecraft:iron_ingot"
