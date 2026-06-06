@@ -1,9 +1,0 @@
-[00:00:47] [Render thread/INFO]: Stopping!
-[00:00:47] [CullThread/INFO]: [STDOUT]: Shutting down culling task!
-[00:00:47] [Render thread/INFO]: Stopping JEI
-[00:00:47] [Render thread/INFO]: Stopping JEI
-[00:00:47] [Render thread/INFO]: Sending Runtime Unavailable...
-[00:00:47] [Render thread/INFO]: Stopping JEI GUI
-[00:00:47] [Render thread/INFO]: Sending Runtime Unavailable took 225.8 ?s
-[00:00:47] [Render thread/INFO]: Removed all overlays.
-[00:00:47] [Render thread/INFO]: All events have been closed.
