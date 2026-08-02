@@ -75,7 +75,7 @@ recipes.addJsonRecipe("sharpness_2", {
   lvl: 2,
   extra_items: [
 	<item:minecraft:amethyst_shard>,
-	<item:malum:soulstained_steel_ingot>
+	<item:malum:soul_stained_steel_ingot>
   ],
   spirits: [
     {
