@@ -3,21 +3,30 @@ import crafttweaker.api.item.IItemStack;
 import crafttweaker.api.ingredient.IIngredient;
 import crafttweaker.api.item.ItemDefinition;
 import stdlib.List;
+<tag:items:generic_melee_weapon>.add(
+	<tag:items:c:swords>, 
+	<tag:items:rpg_series:glaives>, <tag:items:rpg_series:sickles>, <tag:items:rpg_series:daggers>, <tag:items:rpg_series:double_axes>, 
+	<tag:items:archers:spears>, <tag:items:forcemaster_rpg:knuckles>, <tag:items:paladins:melee_weapons>
+);
+<tag:items:generic_melee_weapon>.remove(<tag:items:minecraft:axes>);
+<tag:items:generic_melee_weapon>.add(
+	<item:mcdw:axe_axe>, <item:mcdw:axe_firebrand>, <item:mcdw:axe_highland>, <item:mcdw:axe_anchor>, <item:mcdw:axe_encrusted_anchor>, <item:mcdw:sword_mechanized_sawblade>
+);
 
-<tag:items:enchantable:fire_aspect>.add(<tag:items:c:swords>);
-<tag:items:enchantable:sharpness>.add(<tag:items:c:swords>, <tag:items:c:axes>);
-<tag:items:enchantable:looting>.add(<tag:items:c:swords>, <tag:items:c:axes>);
-<tag:items:enchantable:bane_of_arthropods>.add(<tag:items:c:swords>);
-<tag:items:enchantable:smite>.add(<tag:items:c:swords>, <tag:items:c:axes>);
-<tag:items:enchantable:knockback>.add(<tag:items:c:swords>);
-<tag:items:enchantable:sweeping_edge>.add(<tag:items:c:swords>);
+<tag:items:enchantable:sharpness>.add(<tag:items:c:swords>, <tag:items:c:axes>, <tag:items:rpg_series:glaives>);
+/*
+<tag:items:enchantable:looting>.add(<tag:items:c:swords>, <tag:items:c:axes>, <tag:items:rpg_series:glaives>);
+<tag:items:enchantable:bane_of_arthropods>.add(<tag:items:c:swords>,<tag:items:rpg_series:glaives>);
+<tag:items:enchantable:smite>.add(<tag:items:c:swords>, <tag:items:c:axes>,<tag:items:rpg_series:glaives>);
+<tag:items:enchantable:knockback>.add(<tag:items:c:swords>,<tag:items:rpg_series:glaives>);
+<tag:items:enchantable:sweeping_edge>.add(<tag:items:c:swords>, <tag:items:rpg_series:glaives>);
 
 
 <tag:items:enchantable:ambush>.add(<item:mcdw:dagger_backstabber>, <item:mcdw:dagger_swift_striker>);
 <tag:items:enchantable:busy_bee>.add(<item:the_bumblezone:bee_stinger>);
 <tag:items:enchantable:chains>.add(<item:mcdw:hammer_flail>, <item:mcdw:scythe_jailors_scythe>);
 <tag:items:enchantable:commited>.add(<item:mcdw:soul_dagger_truthseeker>, <item:mcdw:staff_growing_staff>, <item:mcdw:dagger_resolute_tempest_knife>);
-/*
+
 <tag:items:enchantable:critical_hit>;
 <tag:items:enchantable:dynamo>;
 <tag:items:enchantable:echo>;
