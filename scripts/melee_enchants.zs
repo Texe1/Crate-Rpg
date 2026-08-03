@@ -2,7 +2,7 @@
 
 recipes.addJsonRecipe("fire_aspect_1", {
   type: "malum:spirit_infusion",
-  input: <tag:items:enchantable:fire_aspect>,
+  input: <tag:items:generic_melee_weapon>,
   enchantment: "minecraft:fire_aspect",
   lvl: 1,
   extra_items: [
@@ -23,7 +23,7 @@ recipes.addJsonRecipe("fire_aspect_1", {
 
 recipes.addJsonRecipe("fire_aspect_2", {
   type: "malum:spirit_infusion",
-  input: <tag:items:enchantable:fire_aspect>,
+  input: <tag:items:generic_melee_weapon>,
   enchantment: "minecraft:fire_aspect",
   lvl: 2,
   extra_items: [
@@ -49,7 +49,7 @@ recipes.addJsonRecipe("fire_aspect_2", {
 
 recipes.addJsonRecipe("sharpness_1", {
   type: "malum:spirit_infusion",
-  input: <tag:items:enchantable:sharpness>,
+  input: <tag:items:generic_melee_weapon>,
   enchantment: "minecraft:sharpness",
   lvl: 1,
   extra_items: [
