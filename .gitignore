@@ -8,3 +8,4 @@ config/ReactiveMusic.json5
 modernfix/structureCacheV1/
 data/surveyor/6884580000936145015/00000000-0000-0000-0000-000000000000.dat
 *.log
+usercache.json
